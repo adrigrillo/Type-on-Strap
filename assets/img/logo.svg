@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 400 200"
+   height="200"
+   width="400"
+   id="svg64"
+   version="1.1">
+  <title
+     id="title6624">grillo logo</title>
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>grillo logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>adrigrillo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>all rights reserved</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cricket</rdf:li>
+            <rdf:li>grillo</rdf:li>
+            <rdf:li>logo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6407">
+      <stop
+         id="stop6405"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path6421"
+     d="m 90,100 h 15.18182"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:2.55874014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path357"
+     d="m 140.11988,78.81105 c 39.57673,-0.0958 106.87406,-0.0958 142.27986,0.28753 6.02952,0 12.79121,6.74701 12.79121,12.72702 v 63.94144 c 0,0 -85.53308,0 -140.88594,-0.30634 C 135.49537,155.30733 108.08063,140.89347 89.374625,126.32671 73.583214,113.90615 34.829804,79.09858 52.163529,79.09858 c 18.261727,0 13.35663,-0.0479 32.833191,-0.10783"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path359"
+     d="m 295.19095,91.8256 c 0,0 7.21983,-10.42711 12.79061,-12.72702 11.81739,-4.90685 27.49235,-6.74689 38.3728,0 8.10977,5.06017 12.11498,16.10038 12.79096,25.60739 0.95572,13.34028 -7.6314,25.91428 -12.79096,38.33477 -3.64866,8.73956 -12.79075,25.6073 -12.79075,25.6073 0,0 -38.37266,-0.92018 -38.37266,-12.881 z"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path361"
+     d="m 269.60885,155.76704 25.5821,38.48799 h 25.58157"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path363"
+     d="m 231.23597,155.76704 -25.5816,38.48799 h -25.58156"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.55874014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="11.511787"
+     cy="104.24591"
+     cx="334.37842"
+     id="path367" />
+  <path
+     id="path418"
+     d="m 346.35436,79.09858 c 0,0 26.76787,-4.6002 36.75608,-12.88036 7.64575,-6.28686 14.87921,-16.10047 14.84441,-25.76075 -0.0314,-9.66028 -6.91177,-18.70721 -14.39446,-24.68737 -9.4644,-7.36019 -22.59036,-9.50694 -34.597,-10.27365 -21.37113,-1.22668 -42.87257,4.44682 -63.35013,10.73366 -13.34589,3.98679 -26.91863,10.88696 -38.10949,17.32716 -11.19016,6.28685 -29.05857,19.93389 -29.05857,19.93389"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path6419"
+     d="M 80,90 H 95.461538"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:2.55874014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:1.47742832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(2.55818,0,0,2.55818,-338.24274,-248.74406)"
+     id="g6415">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#255d00;stroke-width:1.47742832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 195,155 c -15,-12.66904 -30,-25 -45,-45 -1,-1.33333 -1.17851,-3.82149 0,-5 1.17851,-1.17851 3.61325,-0.9245 5,0 15,10 35.00003,22.76528 50,40 0.9599,2.41951 1.66766,8.3037 0,10 -2.5533,1.10283 -8.07041,1.52179 -10,0 z"
+       id="path428" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:1.47742832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 149.19911,107 -6.58811,66.13681 h -10"
+       id="path6411" />
+  </g>
+  <path
+     id="path6417"
+     d="m 274.82568,79.09858 c 0,0 -2.65858,35.72751 -5.21683,38.33446 -2.55827,2.60644 -35.81453,-5.5203 -38.37288,-7.82021 -2.5583,-2.45326 0,-30.51425 0,-30.51425 z"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:2.55874014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path6419-3"
+     d="M 153.56349,90 H 205"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:2.55874014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path6419-6"
+     d="M 164.70067,100 H 205"
+     style="fill:none;fill-opacity:1;stroke:#255d00;stroke-width:2.55874014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <flowRoot
+     transform="translate(0,-200)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot7369"
+     xml:space="preserve"><flowRegion
+       id="flowRegion7371"><rect
+         y="210"
+         x="5"
+         height="55"
+         width="390"
+         id="rect7373" /></flowRegion><flowPara
+       id="flowPara7375" /></flowRoot>  <flowRoot
+     transform="translate(0,-200)"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot860"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="flowRegion862"><rect
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="205"
+         x="5"
+         height="55"
+         width="390"
+         id="rect864" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="flowPara868">AdriGrillo</flowPara></flowRoot></svg>
