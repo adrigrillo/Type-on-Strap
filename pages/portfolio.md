@@ -2,8 +2,8 @@
 layout: bootstrap 
 title : Portfolio 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "My projects" 
+feature-img: "assets/img/thumbnails/code.jpg"
 ---
 
 {% include portfolio.html %}
