@@ -1,21 +1,20 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: ""
+url: "https://adrigrillo.github.io"
+title: adrigrillo's blog # site's title
+description: "A blog about g(t)hrillin' development stories" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
-  avatar: assets/img/triangle.svg
+  title: adrigrillo's blog # blog's title
+  avatar: assets/img/logo.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: dfd63eddc598e5d727af20e54c0be057 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -28,12 +27,12 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  gitlab:
-  github: "sylhare"
+  gitlab: "adrigrillo"
+  github: "adrigrillo"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/adrirgrillo/ # Full URL
   pinterest:
   reddit:
   soundcloud:
@@ -52,7 +51,7 @@ theme_settings:
     google_plus: true
     tumblr:
     pinterest:
-    pocket:
+    pocket: true
     reddit: true
     linkedin:
     wordpress:
@@ -114,4 +113,4 @@ sass:
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
-exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md"]
