@@ -2,7 +2,7 @@
 layout: post
 title: NYCSparkTaxi
 feature-img: "assets/img/portfolio/nyc-taxi.jpg"
-img: "assets/img/portfolio/nyc-taxi-thumb.png"
+thumbnail: "assets/img/portfolio/nyc-taxi-thumb.png"
 date: 20 July 2017
 tags: [big data, New York, apache spark, taxi, routes, profit, python]
 ---

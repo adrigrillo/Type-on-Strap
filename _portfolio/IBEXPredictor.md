@@ -2,7 +2,7 @@
 layout: post
 title: IBEXPredictor
 feature-img: "assets/img/portfolio/stock-market.jpg"
-img: "assets/img/portfolio/stocks.png"
+thumbnail: "assets/img/portfolio/stocks.png"
 date: 20 July 2017
 tags: [prediction, stock market, finance, python, machine learning]
 ---
