@@ -2,6 +2,7 @@
 layout: post
 title: Reinforcement learning in the latent space 
 feature-img: "assets/img/portfolio/machine-learning.png"
+img: "assets/img/portfolio/rl.png"
 date: 1 February 2019
 tags: [reinforcement learning, neural networks, python, machine learning]
 ---
@@ -24,4 +25,4 @@ Knowledge from learning one or multiple tasks did not successfully transfer to u
 Furthermore, an analysis of the latent space produced by the encoder network revealed the
 encoder's lack of focus on features relevant to solving the agent's objectives.
 
-The code can be found here: https://github.com/weidler/RLaSpa
+The code can be found here: <https://github.com/weidler/RLaSpa>

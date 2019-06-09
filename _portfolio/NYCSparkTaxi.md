@@ -23,6 +23,6 @@ used for the files to save the processed data as a file type.
 
 The documentation of this final degree project could be found in docs folder in 
 a compilable Latex format. The full repo can be found here: 
-https://github.com/adrigrillo/NYCSparkTaxi
+<https://github.com/adrigrillo/NYCSparkTaxi>
 
 Image courtesy of [prayitnophotography](https://www.flickr.com/photos/prayitnophotography/)
