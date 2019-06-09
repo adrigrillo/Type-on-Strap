@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
-feature-img: "assets/img/about/reflection.webp"
+feature-img: "assets/img/about/reflection.jpg"
 tags: [About me, Archive]
 ---
 
