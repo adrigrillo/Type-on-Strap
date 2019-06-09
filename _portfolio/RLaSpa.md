@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Reinforcement learning in the latent space 
-img: "assets/img/portfolio/machine-learning.png"
 feature-img: "assets/img/portfolio/rl.png"
 date: 1 February 2019
 tags: [reinforcement learning, neural networks, python, machine learning]
