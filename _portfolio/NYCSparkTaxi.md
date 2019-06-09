@@ -7,8 +7,6 @@ date: 20 July 2017
 tags: [big data, New York, apache spark, taxi, routes, profit, python]
 ---
 
-# Spark based big data architecture to analyse New York city taxi trips
-
 This is my final bachelor's degree project, it takes as starting point the challenge
 gave during the 2015 DEBS Grand Challenge. It uses all the traces of the trips made
 during 2013 by the New York City taxis, which were more than 170 million of trips, and

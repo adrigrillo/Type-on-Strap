@@ -2,7 +2,7 @@
 layout: post
 title: MetroMiner
 img: "assets/img/portfolio/subway.png"
-color: rgb(229,359,0)
+color: rgb(229,60,53)
 date: 29 May 2018
 tags: [nlp, python, kafka, streaming]
 ---
