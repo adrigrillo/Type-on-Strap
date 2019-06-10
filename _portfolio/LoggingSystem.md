@@ -2,7 +2,7 @@
 layout: post
 title: JSON logging system
 color: rgb(80,140,22)
-img: "assets/img/portfolio/stocks.png"
+img: "assets/img/portfolio/json.png"
 date: 16 August 2017
 tags: [json, logging system, java]
 ---
