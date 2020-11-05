@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
+title : Projects 
+permalink: /projects/
 subtitle: "My projects"  
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: ""
 tags: [Archive]
 ---
 

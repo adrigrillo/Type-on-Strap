@@ -7,11 +7,10 @@ title: adrigrillo's blog # blog's title
 description: "A blog about g(t)hrillin' development stories" # used by search engines
 avatar: assets/img/logo.svg
 favicon: assets/favicon.ico
-gravatar: dfd63eddc598e5d727af20e54c0be057 # Email MD5 hash
 
 # Header and footer text
-# header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-# header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: ""
+header_feature_image: ""
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
